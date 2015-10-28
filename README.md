@@ -26,30 +26,68 @@ As much lead time as possible before the event, 2 weeks sounds ideal
   - how get into the building
   - wifi credentials for non-NYU
   - where and how to RSVP beforehand
-3. Marketing will send back any assets and guidance requested in the Creative Brief and asks for Techey's approval
+3. Marketing will send back any assets and guidance requested in the Creative Brief and asks for Techey's approval - **JY**
 4. Techey approves or makes any requests for changes via email
-5. In the event that Techey does not respond, Marketing will send 1 follow up email. Failure to respond to this email will result in Marketing deciding what to do at their discretion (most likely go ahead)
+5. In the event that Techey does not respond, Marketing will send 1 follow up email. Failure to respond to this email will result in Marketing deciding what to do at their discretion (most likely go ahead) - **JY**
 
 ### 2. Online
 
-1. Marketing will take the approved Creative Brief and input the data into the API via Intranet
-2. Marketing will then make a Facebook event with the data from the Intranet and will let the e-board know (via Slack?)
-3. **Everyone on Tech@NYU is responsible for inviting friends on the FB event**. (TBD - whether or not Marketing has further strategy/best practices on inviting?)
-4. Marketing will post on other forms of Social Media (this is TBD)
-5. Marketing will work on the Newsletter copy and sendout
+1. Marketing will take the approved Creative Brief and input the data into the API via Intranet - **JY**
+2. Marketing will then make a Facebook event with the data from the Intranet and will let the e-board know (via Slack?) - **CW**
+3. -Marketing will segment the reach (FUTURE - will work with RSVP and Techey)-
+4. **Everyone on Tech@NYU is responsible for inviting friends on the FB event**. (TBD - whether or not Marketing has further strategy/best practices on inviting?)
+5. Marketing will post on other forms of Social Media
+  - Twitter
+    - Relating to events
+    - RT Tech Collab and Non-profit
+    - RT e-board members stuff
+    - good coverage from rest of board
+    - Techey is responsible for organizing someone to livetweet at event
+  - Facebook
+    - Relating to events
+    - Facebook Group moderating? - approval rather than disapproval
+    - Generally approve Tech Collab stuff
+    - good coverage from rest of board
+  - Instagram (need to redo)
+  - Tumblr (need to redo)
+  - Meetup (need to redo)
+  - Snapchat (FUTURE)
+6. Marketing will work on the Newsletter copy and sendout
+  - Cross Promotion / Partnerships
+    - Tech Collab
+    - Non-profits
+    - other NYU Entrepreneur stuff
+  - Writing the Copy and the Digest - **BD, RS**
+7. MEDIUM?
+8. Other?
+  - Infographics? - **RS, BD**
+  - Cray?
+9. Biggest events will push up to Tech Collab (TBD - strategy) - **CW**
 
 ### 3. IRL
 
-1. Marketing will coordinate the production of any flyers or other IRL advertising
+1. Techey will coordinate the production of any flyers or other IRL advertising
 2. Marketing will speak with the appropriate NYU and/or NYC governing bodies in order to post the adverts
-3. Marketing will get the advertising made with enough notice (timeframe TBD) and tell the original team (Techey's team) that the ads are ready to be distributed
-4. Techey and Techey's team will put up the advertising in the appropriate locations as determined by 3.2 above
+   - SPS - **JY**
+   - CAS - **BD**
+   - Gallatin - **CW**
+   - Tisch - ?
+   - Stern - ?
+   - Poly - ?
+3. Techey will get the advertising made
+4. Techey and Techey's team will put up the advertising in the appropriate locations as determined by 2 above
+5. Techey will ask rest of Board if they need help with 4
 
 ### 4. Days before the Event
 
-1. TBD - but probably Marketing will do some social media reminders
-
+1. Marketing and/or Techey will do some social media reminders
+2. Best Practices / suggestions
+  - Image
+  - Update
+  - Reminder
+  - RSVP
+  
 ### 5. After the Event
 
 1. Infrastructure Feedback will route Feedback to the Marketing team
-2. Marketing will analyze the Feedback to research and understand what members actually want out of our events
+2. Marketing will analyze the Feedback to research and understand what members actually want out of our events - **JY++**
