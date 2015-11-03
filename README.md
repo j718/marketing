@@ -53,6 +53,7 @@ As much lead time as possible before the event, 2 weeks sounds ideal
   - Meetup (need to redo)
   - Snapchat (FUTURE)
 6. Marketing will work on the Newsletter copy and sendout
+*Friday before the week of a Tier III event (eg. workshops, self-improvement events) , marketing will send image + copy to Sue Wais at SPS for promo
   - Cross Promotion / Partnerships
     - Tech Collab
     - Non-profits
